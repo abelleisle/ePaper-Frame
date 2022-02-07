@@ -2,7 +2,7 @@
 
 This is a stub mirror. The full source code for this commit is at:
 
-https://git.bitcicle.com/andy/ePaper-Frame/src/commit/8fbab603985218cc9d0862038e8623286b3fbc01
+https://git.bitcicle.com/andy/ePaper-Frame/src/commit/1a99bd8a59bcd5766e85181a782af5c1ba99ccc7
 
 To browse or clone the full repository, visit:
 
